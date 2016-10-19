@@ -3,6 +3,11 @@
 Material theme is an Android Studio / Intellij IDEA colorscheme based on
 https://github.com/equinusocio/material-theme
 
+## Screenshots
+
+![java](screenshots/java_colors.png)
+![xml](screenshots/xml_colors.png)
+
 ## Instalation
 
 1. Copy `material_theme.icls` to your Android Studio preferences color directory.
