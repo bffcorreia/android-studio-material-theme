@@ -990,7 +990,7 @@
     </option>
     <option name="KOTLIN_CONSTRUCTOR">
       <value>
-        <option name="FOREGROUND" value="ffcb6b" />
+        <option name="FOREGROUND" value="c792ea" />
       </value>
     </option>
     <option name="KOTLIN_EXTENSION_PROPERTY">
@@ -1036,7 +1036,7 @@
     </option>
     <option name="KOTLIN_PACKAGE_PROPERTY">
       <value>
-        <option name="FOREGROUND" value="ff8a72" />
+        <option name="FOREGROUND" value="f77669" />
       </value>
     </option>
     <option name="KOTLIN_PARAMETER">
