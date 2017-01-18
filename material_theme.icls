@@ -1054,6 +1054,17 @@
         <option name="FOREGROUND" value="f3f1f2" />
       </value>
     </option>
+    <option name="KOTLIN_SMART_CAST_RECEIVER">
+      <value />
+    </option>
+    <option name="KOTLIN_SMART_CAST_VALUE">
+      <value />
+    </option>
+    <option name="KOTLIN_SMART_CONSTANT">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="KOTLIN_TRAIT">
       <value>
         <option name="FOREGROUND" value="c3e887" />
